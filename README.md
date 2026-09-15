@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ziad+Fissal;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;I+build+fast%2C+accessible%2C+production-ready+apps" alt="Typing SVG" />
+# Hi, I'm Ziad Fissal 👋
+
+### Full-Stack Developer — React · TypeScript · Node.js
+
+I build fast, accessible, production-ready web apps.
 
 <p>
   <a href="https://auratech-store.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_Live_Projects-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
