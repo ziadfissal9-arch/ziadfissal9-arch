@@ -7,7 +7,8 @@
 I build fast, accessible, production-ready web apps.
 
 <p>
-  <a href="https://auratech-store.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_Live_Projects-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ziad-fissal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ziad--fissal.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ziad-fissal.vercel.app/cv/Ziad-Fissal-CV.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-16A34A?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
   <a href="mailto:ziadfissal9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -30,6 +31,7 @@ I'm a full-stack developer who enjoys turning rough ideas into polished, product
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -51,6 +53,30 @@ I'm a full-stack developer who enjoys turning rough ideas into polished, product
 ### Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[🧑‍💻 Portfolio](https://github.com/ziadfissal9-arch/portfolio)**
+
+My personal site — about me, all projects below with live demos, and a one-click downloadable CV.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+[**Live Demo →**](https://ziad-fissal.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**[☕ Dar Al-Asalah](https://github.com/ziadfissal9-arch/dar-al-asalah)**
+
+Full-stack Arabic (RTL) e-commerce for coffee, oud & perfume — real auth, MongoDB-backed orders, and an admin dashboard.
+
+`React` `TypeScript` `Node.js/Express` `MongoDB`
+
+[**Live Demo →**](https://dar-al-asalah.vercel.app)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
