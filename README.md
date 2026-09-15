@@ -103,19 +103,6 @@ Bold neo-brutalist fintech landing page — strict TypeScript, route-based code 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ziadfissal9-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadfissal9-arch&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadfissal9-arch&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 **Let's connect** — [ziadfissal9@gmail.com](mailto:ziadfissal9@gmail.com)
